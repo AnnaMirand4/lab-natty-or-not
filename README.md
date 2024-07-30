@@ -13,7 +13,7 @@ Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essen
 ## 🚀 Resultados
 O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador.
 
-<a href="https://github.com/AnnaMirand4/lab-natty-or-not/blob/main/assets/moca%20video.mp4 "title="View video now"> Clique aqui para assistir🎥</a>
+<a href="https://github.com/AnnaMirand4/lab-natty-or-not/blob/main/assets/moca%20video.mp4" title="View video now"> Clique aqui para assistir🎥</a>
 
 
 ## 💭 Reflexão
